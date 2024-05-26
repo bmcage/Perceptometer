@@ -6,6 +6,7 @@ import os
 ###### CONFIG ######
 NON_GUI = False
 FILE_PREFIX = '/home/benny/Desktop'
+###### END CONFIG ######
 
 
 def take_picture(filename):
